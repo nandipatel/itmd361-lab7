@@ -8,5 +8,5 @@ function init(){
     alert('Nandi Patel: ' + entry.value);
     txoutput.innerHTML = entry.value;
   });
-
+}
 window.addEventListener('load', init);
