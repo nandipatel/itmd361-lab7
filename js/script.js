@@ -13,7 +13,6 @@ function init(){
 
  enbutton.addEventListener('click', alert);
  enbutton.addEventListener('click', output);
- 
 }
 
 window.addEventListener('load', init);
